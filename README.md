@@ -1,4 +1,4 @@
-# OfDreadAndDefeat
+# Of Dread And Defeat
 The worst story ever told.
 ----
 
