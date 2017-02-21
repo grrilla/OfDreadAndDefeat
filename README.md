@@ -67,28 +67,28 @@ There are two well-known situations when time will slow: the first is impatient 
 *****
 
 *104, 103, 102, 101…* **Relief.**
-It was ending. Childish excitement gathered in his throat to the surprise of even him. Thomas Pratt was finally happy with the direction of his life. As depressing as the context may have been, he was finally in control and dreams really had come true. But had they? A familiar voice. The voice of reason. He’d forgotten to start listening again.
+<br/>It was ending. Childish excitement gathered in his throat to the surprise of even him. Thomas Pratt was finally happy with the direction of his life. As depressing as the context may have been, he was finally in control and dreams really had come true. But had they? A familiar voice. The voice of reason. He’d forgotten to start listening again.
 
 *81, 80, 79, 78…* **Fear.**
 <br/>Was this really necessary? Had he found the solution or merely gotten lost in the moment? His excitement dispersed and was replaced by a strangled gasp of panic, like waking from a dream and landing in a nightmare. Had he thrown it all away on a bad mood, a moment of weakness, a cluttered perspective? Now all hopes of rectification were completely lost.
 
 *63, 62, 61, 60…* **Anger.**
-This was all because of Crossroads! The glass people! Pratt hated them passionately. Could they see him now? They would have to see the ugly mess on their polished marble steps tomorrow morning. With disgusting pleasure he envisioned the twisted expressions of horror his remains would elicit upon their beautiful existence. They had put him up there, alone with the wind, that treacherous wind. It brought the dust. The very grime that had put his entire life to waste. A film of dirt that had collected so slowly over so long that he hadn’t realized what it was amounting to, and now it had finally smothered his flame. He himself had become nothing more than a helpless fleck of dust in the wind.
+<br/>This was all because of Crossroads! The glass people! Pratt hated them passionately. Could they see him now? They would have to see the ugly mess on their polished marble steps tomorrow morning. With disgusting pleasure he envisioned the twisted expressions of horror his remains would elicit upon their beautiful existence. They had put him up there, alone with the wind, that treacherous wind. It brought the dust. The very grime that had put his entire life to waste. A film of dirt that had collected so slowly over so long that he hadn’t realized what it was amounting to, and now it had finally smothered his flame. He himself had become nothing more than a helpless fleck of dust in the wind.
 
 *39, 38, 37, 36…* **Harmony.**
-When put into perspective, it no longer seemed to matter. What would he be missing out on? The squeegee. The rusty Geo. The TV Dinners. The lonely 19th street apartment. The wind. The people behind the glass. Old age. That was his life, and all were things that made him miserable. Collectively, they were what put him where he was, what made him who he was. They were the problem he was presently trying to solve.
+<br/>When put into perspective, it no longer seemed to matter. What would he be missing out on? The squeegee. The rusty Geo. The TV Dinners. The lonely 19th street apartment. The wind. The people behind the glass. Old age. That was his life, and all were things that made him miserable. Collectively, they were what put him where he was, what made him who he was. They were the problem he was presently trying to solve.
 
 *17, 16, 15, 14…*
-Or was he just finally admitting defeat? With that thought, Thom once again asked himself, more inquisitively than he ever had or ever would: Was this really necessary?
+<br/>Or was he just finally admitting defeat? With that thought, Thom once again asked himself, more inquisitively than he ever had or ever would: Was this really necessary?
 
 *10, 9, 8…*
-He thought about work and the Crossroads building. He remembered the feeling he got staring up at the building. It was how he felt now, reflecting upon his existence.
+<br/>He thought about work and the Crossroads building. He remembered the feeling he got staring up at the building. It was how he felt now, reflecting upon his existence.
 
 *7, 6, 5…* 
-How was it that he could clean the film from the curtain wall but not from his own life?
+<br/>How was it that he could clean the film from the curtain wall but not from his own life?
 
 *3, 2, 1.* **Epiphany.**
-And then, like a set of polished marble steps, it hit him: dip, soap, flip, stroke. The only way he’d ever cleaned or accomplished anything was when he wasn’t distracted. He’d had a nasty habit of always looking either up at the mountain from its foot in a pool of dread, or down at his supposed solution in dreamy defeat. All the while, he should have been looking at what was directly in front of him, the true means for an end: a window that needed cleaning – a matter of dip, soap, flip, and stroke – the only thing he had ever done well. He was so overwhelmed by the mountain, his entire situation, that he forgot scaling it was just a sequence of much smaller, simpler steps. He should have approached his life as he would 1118 Watercrest Avenue: one eight by six foot segment at a time. The squeegee, the car, the glass people, all the things that made him who he was... they were all just windows. 
+<br/>And then, like a set of polished marble steps, it hit him: dip, soap, flip, stroke. The only way he’d ever cleaned or accomplished anything was when he wasn’t distracted. He’d had a nasty habit of always looking either up at the mountain from its foot in a pool of dread, or down at his supposed solution in dreamy defeat. All the while, he should have been looking at what was directly in front of him, the true means for an end: a window that needed cleaning – a matter of dip, soap, flip, and stroke – the only thing he had ever done well. He was so overwhelmed by the mountain, his entire situation, that he forgot scaling it was just a sequence of much smaller, simpler steps. He should have approached his life as he would 1118 Watercrest Avenue: one eight by six foot segment at a time. The squeegee, the car, the glass people, all the things that made him who he was... they were all just windows. 
 
 *And I was the Washer.*
 
@@ -96,6 +96,6 @@ And then, like a set of polished marble steps, it hit him: dip, soap, flip, stro
 
 A mountain crumbles to a fatal dust, a mirror shatters into shards of murky glass, and another lost soul drowns in this loveless wasteland. His blood and tears now flow through the ocean he so foolishly sought, and the fish still swim irrelevantly, sustained by their neglect to see why those lavish waters will never dry.
 
-Dip, soap, flip, and stroke;
-Love, dream, live, and breathe;
-For we know not what tomorrow’s winds may carry.
+Dip, soap, flip, and stroke
+<br/>Love, dream, live, and breathe
+<br/>For we know not what tomorrow’s winds may carry.
